@@ -9,8 +9,8 @@
         <module name="SeleniumTraining" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SeleniumTraining" target="1.5" />
+    <bytecodeTargetLevel target="10">
+      <module name="SeleniumTraining" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
